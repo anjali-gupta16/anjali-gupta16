@@ -83,7 +83,11 @@ goal: To become a skilled AI/ML professional and software developer
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjali-gupta16&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Most Used Languages" />
+![Python](https://img.shields.io/badge/Python-45%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-20%25-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-15%25-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-10%25-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-10%25-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 </div>
 
@@ -99,11 +103,13 @@ goal: To become a skilled AI/ML professional and software developer
 
 ---
 
-## 🏆 GitHub Trophies
+## 🏆 GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=anjali-gupta16&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+![GitHub Stars](https://img.shields.io/github/stars/anjali-gupta16?style=for-the-badge&logo=github)
+![GitHub Followers](https://img.shields.io/github/followers/anjali-gupta16?style=for-the-badge&logo=github)
+![GitHub Repos](https://img.shields.io/badge/Public%20Repos-Growing-8A2BE2?style=for-the-badge&logo=github)
 
 </div>
 ---
