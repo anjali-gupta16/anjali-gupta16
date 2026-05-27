@@ -71,9 +71,9 @@ goal: To become a skilled AI/ML professional and software developer
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=anjali-gupta16&show_icons=true&theme=tokyonight&hide_border=true" />
 
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=anjali-gupta16&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -83,7 +83,7 @@ goal: To become a skilled AI/ML professional and software developer
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjali-gupta16&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -93,7 +93,7 @@ goal: To become a skilled AI/ML professional and software developer
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anjali-gupta16&theme=tokyo-night&hide_border=true" />
 
 </div>
 
@@ -103,7 +103,7 @@ goal: To become a skilled AI/ML professional and software developer
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=anjali-gupta16&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
 
 </div>
 
@@ -154,7 +154,7 @@ A modern and user-friendly banking application design focused on clean interface
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:YOUR_EMAIL)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow%20Me-black?style=for-the-badge&logo=github)](https://github.com/anjali-gupta16)
 
 </div>
 
