@@ -155,7 +155,7 @@ A modern and user-friendly banking application design focused on clean interface
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anjali%20Gupta-blue?style=for-the-badge&logo=linkedin)](www.linkedin.com/in/anjali-gupta-a129833a0)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anjali%20Gupta-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anjali-gupta-a129833a0)
 
 [![Email](https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail)](mailto:anjali.gupta.ashok16@gmail.com)
 
