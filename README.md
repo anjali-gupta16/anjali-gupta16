@@ -83,7 +83,7 @@ goal: To become a skilled AI/ML professional and software developer
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjali-gupta16&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anjali-gupta16&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Most Used Languages" />
 
 </div>
 
@@ -93,7 +93,7 @@ goal: To become a skilled AI/ML professional and software developer
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anjali-gupta16&theme=tokyo-night&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anjali-gupta16&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
 
 </div>
 
@@ -103,10 +103,9 @@ goal: To become a skilled AI/ML professional and software developer
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=anjali-gupta16&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
+<img src="https://github-profile-trophy.vercel.app/?username=anjali-gupta16&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10" alt="GitHub Trophies" />
 
 </div>
-
 ---
 
 ## 💼 Featured Projects
