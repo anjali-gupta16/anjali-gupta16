@@ -12,8 +12,8 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=8A2BE2&style=flat)
-![GitHub Followers](https://img.shields.io/github/followers/YOUR_GITHUB_USERNAME?label=Followers&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=anjali-gupta16&label=Profile%20Views&color=8A2BE2&style=flat)
+![GitHub Followers](https://img.shields.io/github/followers/anjali-gupta16?label=Followers&style=social)
 
 </div>
 
